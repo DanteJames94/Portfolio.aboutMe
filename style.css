@@ -1,0 +1,33 @@
+#about {
+  border: 3px solid;
+  background: white;
+}
+#contactsheet {
+  border: 3px solid;
+  background: white;
+  padding: 10px;
+}
+#portfolio {
+  border: 3px solid;
+  background: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+}
+
+#car {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  background-color: lightblue;
+}
+
+body {
+  background-image: url(https://www.darrylhallhomes.com/wp-content/uploads/2019/08/light-gray-texture-light-gray-color-cotton-polyester-fabric-texture-background-fashion-design-concept-premium-photo-light-gray-pattern-300x300.jpg);
+}
+
+h1 {
+  color: lightblue;
+}
